@@ -1,0 +1,21 @@
+.heading {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.heading div {
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 4px;
+  border-radius: 4px;
+  background-color: #f4f3f6;
+  line-height: 1.17;
+  color: #191d63;
+}
+.heading h2 {
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.11;
+  color: #000;
+}
